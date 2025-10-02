@@ -22,3 +22,9 @@ A simple Android application to look up national holidays for a given year.
 *   **Retrofit:** For making network calls to the holiday API.
 *   **Coroutines:** To manage asynchronous operations efficiently.
 *   **ViewBinding:** To safely access views from the layout.
+
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73ae8567-97cf-42d0-b830-84dbdcf3e2f6" alt="Card Back" width="45%">
+</p>
